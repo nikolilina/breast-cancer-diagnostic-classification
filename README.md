@@ -104,6 +104,5 @@ dostupna u `results/feature_importance.csv`.
 ## Reference
 
 Projekat je strukturno usklađen sa materijalima i primerima sa vežbi
-predmeta Softverski algoritmi u sistemima automatskog upravljanja
-(uključujući referentni primer Car Evaluation), kao i sa zahtevima iz
+predmeta Softverski algoritmi u sistemima automatskog upravljanja, kao i sa zahtevima iz
 projektnog pravilnika.
